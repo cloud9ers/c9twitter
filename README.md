@@ -78,7 +78,7 @@ Start a worker in another shell:
 	
 From your browser request this URL passing your favorite tag array to search twitter for:
 
-	http://127.0.0.1:8800/crawler/?tag=127.0.0.1:8800/crawler/?tag=montaro23&tag=cloud9ers&tag=j25&tag=tahrir&tag=invalidtag
+	http://127.0.0.1:8800/crawler/?tag=montaro23&tag=cloud9ers&tag=j25&tag=tahrir&tag=invalidtag
 
 You should get some results in the browser like this:
 
